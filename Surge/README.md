@@ -25,6 +25,8 @@
 - [mac 最强软路由？仅需4步！mac变身软路由，新手也能一次成功！](https://youtu.be/OBiUJdC7vzQ)
 - [mac只能做旁路由？5分钟教会你surge主路由完美网络管理！](https://youtu.be/Xkt0MmyCZeA)
 - [Surge 模块、脚本、重写规则一网打尽，轻松进阶！](https://youtu.be/XFlpcR8YaQ4)
+- [用VPN就能保护隐私？你可能忽略了这个致命漏洞…](https://youtu.be/pa5q1rZZlF8)
+- [网络隐私频繁泄露？DNS修复全攻略来了！](https://youtu.be/KzawyikaeH4)
 
 🎬 订阅频道，持续学习更多实用网络技能！
 欢迎点赞、评论并[订阅](https://www.youtube.com/@a-nomad?sub_confirmation=1)频道，打开小铃铛，第一时间收到最新教程推送！
